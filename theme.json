@@ -2,12 +2,12 @@
   "id": "zen-letter-icons",
   "name": "Zen Letter Icons",
   "description": "Shows certain emoji chosen as a Space icon as the letters A-Z.",
-  "author": "chaosancientgeargiant-droid",
-  "homepage": "https://github.com/chaosancientgeargiant-droid/zen-letter-icons",
+  "author": "YOUR_GITHUB_NAME",
+  "homepage": "https://github.com/YOUR_GITHUB_NAME/zen-letter-icons",
   "tags": ["Zen Browser", "Spaces", "Icons"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "createdAt": "2026-11-15",
-  "updatedAt": "2026-11-15T00:00:00Z",
+  "updatedAt": "2026-11-15T12:00:00Z",
   "fork": ["zen"],
   "scripts": {
     "letter-icons.uc.js": {

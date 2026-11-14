@@ -12,7 +12,8 @@
     Object.entries(MAP).map(([k, v]) => [strip(k), v])
   );
 
-  const SELECTOR = ".zen-current-workspace-indicator-icon";
+  const SELECTOR =
+    ".zen-current-workspace-indicator-icon, .zen-workspace-icon";
 
   function swap(el) {
     const letter = TABLE[strip(el.textContent)];
