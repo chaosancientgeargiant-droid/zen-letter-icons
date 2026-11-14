@@ -5,9 +5,9 @@
   "author": "YOUR_GITHUB_NAME",
   "homepage": "https://github.com/YOUR_GITHUB_NAME/zen-letter-icons",
   "tags": ["Zen Browser", "Spaces", "Icons"],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "createdAt": "2026-11-15",
-  "updatedAt": "2026-11-15T12:00:00Z",
+  "updatedAt": "2026-11-15T18:00:00Z",
   "fork": ["zen"],
   "scripts": {
     "letter-icons.uc.js": {
